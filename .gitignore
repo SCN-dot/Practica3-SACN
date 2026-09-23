@@ -1,0 +1,9 @@
+build-*/
+*.pro.user
+*.pro.user.*
+*.autosave
+Thumbs.db
+.DS_Store
+*.exe
+*.o
+*.obj
