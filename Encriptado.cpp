@@ -66,7 +66,7 @@ static int leerEntero(const char* mensaje)
 
 void ejecutarCrypto()
 {
-    cout << "=== 5.3 Encriptacion y desencriptacion ===" << endl;
+    cout << "Encriptacion y desencriptacion " << endl;
     cout << "Ingrese el texto: ";
 
     char texto[TAM_MAX_TEXTO];

@@ -59,7 +59,7 @@ string rleDescomprimir(const string& comprimido)
 
 void ejecutarRLE()
 {
-    cout << "=== 5.1 Compresion y descompresion RLE ===" << endl;
+    cout << "RLE" << endl;
     cout << "Ingrese el texto: ";
 
     string original;

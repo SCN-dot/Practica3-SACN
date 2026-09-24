@@ -265,7 +265,7 @@ void lz78MostrarPares(const unsigned char* comprimido, int lon)
 
 void ejecutarLZ78()
 {
-    cout << "=== 5.2 Compresion y descompresion LZ78 ===" << endl;
+    cout << "LZ78 " << endl;
     cout << "Ingrese el texto: ";
 
     char texto[TAM_MAX_TEXTO];
